@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatsAndDogsWeb", "CatsAndDogsWeb\CatsAndDogsWeb.csproj", "{AD2F9F7B-1DD3-4131-BDF4-280964EEFB26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatsAndDogsAPI", "CatsAndDogsAPI\CatsAndDogsAPI.csproj", "{967EE241-F989-4355-9646-C152843D71C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD2F9F7B-1DD3-4131-BDF4-280964EEFB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2F9F7B-1DD3-4131-BDF4-280964EEFB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2F9F7B-1DD3-4131-BDF4-280964EEFB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2F9F7B-1DD3-4131-BDF4-280964EEFB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967EE241-F989-4355-9646-C152843D71C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967EE241-F989-4355-9646-C152843D71C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967EE241-F989-4355-9646-C152843D71C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967EE241-F989-4355-9646-C152843D71C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCCB8BAC-57E4-491D-B5EF-FCD5096D7467}
+	EndGlobalSection
+EndGlobal
